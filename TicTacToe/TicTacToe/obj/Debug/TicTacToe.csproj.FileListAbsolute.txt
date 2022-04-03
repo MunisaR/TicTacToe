@@ -1,0 +1,11 @@
+D:\West\FunPro\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\West\FunPro\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\West\FunPro\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\West\FunPro\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+D:\West\FunPro\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+D:\West\FunPro\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+D:\West\FunPro\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\West\FunPro\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\West\FunPro\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\West\FunPro\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\West\FunPro\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
